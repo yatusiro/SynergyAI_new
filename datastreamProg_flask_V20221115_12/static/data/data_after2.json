@@ -1,0 +1,370 @@
+[
+  {
+    "data": {
+      "source": "s-361",
+      "target": "AI-446",
+      "arrow": "triangle",
+      "id": "f82a7af2-cae2-4f5b-8c66-24998a88c439"
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "source": "s-809",
+      "target": "AI-1236",
+      "arrow": "triangle",
+      "id": "0785e9c3-c257-4583-9129-bd9ef67b2f68"
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "zr606",
+      "type": "CAPSULE"
+    },
+    "position": {
+      "x": 259.06119371727743,
+      "y": 78.8874554973822
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "capsule"
+  },
+  {
+    "data": {
+      "id": "s-767",
+      "parent": "zr606",
+      "label": "data(id)",
+      "type": "Input-Operator"
+    },
+    "position": {
+      "x": 259.06119371727743,
+      "y": 87.3874554973822
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "input-Operator"
+  },
+  {
+    "data": {
+      "id": "zr1934",
+      "type": "CAPSULE"
+    },
+    "position": {
+      "x": 398.04372774869114,
+      "y": 79.88732984293195
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "capsule"
+  },
+  {
+    "data": {
+      "id": "s-361",
+      "parent": "zr1934",
+      "label": "data(id)",
+      "type": "Input-Operator"
+    },
+    "position": {
+      "x": 398.04372774869114,
+      "y": 88.38732984293195
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "input-Operator"
+  },
+  {
+    "data": {
+      "id": "zr1710",
+      "type": "CAPSULE"
+    },
+    "position": {
+      "x": 524.0278952879582,
+      "y": 81.88707853403142
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "capsule"
+  },
+  {
+    "data": {
+      "id": "s-809",
+      "parent": "zr1710",
+      "label": "data(id)",
+      "type": "Input-Operator"
+    },
+    "position": {
+      "x": 524.0278952879582,
+      "y": 90.38707853403142
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "input-Operator"
+  },
+  {
+    "data": {
+      "id": "zr1621",
+      "type": "CAPSULE"
+    },
+    "position": {
+      "x": 360.0485026178011,
+      "y": 423.8441047120419
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "capsule"
+  },
+  {
+    "data": {
+      "id": "AI-446",
+      "parent": "zr1621",
+      "label": "data(id)",
+      "type": "RF-Operator"
+    },
+    "position": {
+      "x": 360.0485026178011,
+      "y": 432.3441047120419
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": true,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "RF-Operator"
+  },
+  {
+    "data": {
+      "id": "zr1309",
+      "type": "CAPSULE"
+    },
+    "position": {
+      "x": 288.05754973821996,
+      "y": 213.87049214659683
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "capsule"
+  },
+  {
+    "data": {
+      "id": "AI-1817",
+      "parent": "zr1309",
+      "label": "data(id)",
+      "type": "SVM-Operator"
+    },
+    "position": {
+      "x": 288.05754973821996,
+      "y": 222.37049214659683
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "SVM-Operator"
+  },
+  {
+    "data": {
+      "id": "zr11",
+      "type": "CAPSULE"
+    },
+    "position": {
+      "x": 550.0246282722514,
+      "y": 255.86521465968593
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "capsule"
+  },
+  {
+    "data": {
+      "id": "AI-1236",
+      "parent": "zr11",
+      "label": "data(id)",
+      "type": "DT-Operator"
+    },
+    "position": {
+      "x": 550.0246282722514,
+      "y": 264.36521465968593
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": "DT-Operator"
+  },
+  {
+    "data": {
+      "source": "s-809",
+      "target": "AI-446",
+      "arrow": "triangle",
+      "id": "97c07600-1e30-4738-8c2f-6a0460590391"
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "source": "s-767",
+      "target": "AI-1817",
+      "arrow": "triangle",
+      "id": "77fe02c2-ad62-4e77-b866-01fc57a2e008"
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "source": "AI-1236",
+      "target": "AI-446",
+      "arrow": "triangle",
+      "id": "10496cd7-cb2d-41f1-9108-175bc40bef9b"
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "source": "s-767",
+      "target": "AI-1236",
+      "arrow": "triangle",
+      "id": "ce2fcdf7-9a37-4eaf-be77-e5abc90837d2"
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "source": "AI-1817",
+      "target": "AI-446",
+      "arrow": "triangle",
+      "id": "7cb2b481-c689-4e21-a9d5-e0c43264a9f3"
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  }
+]
