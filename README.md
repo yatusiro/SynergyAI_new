@@ -6,6 +6,6 @@ step3: cd datastreamProg_flask_V20221115_12/
 
 step4: ターミナルで python server.py を実行しサーバーを開く
 
-step5: ターミナルで表示された“URL”＋“/index”をbrowserに貼り付けてSynergyAIを使う
+step5: ターミナルで表示された“URL”＋“/index”をブラウザに貼り付けてSynergyAIを使う(必要な権限を全部許可すること)
  
 
